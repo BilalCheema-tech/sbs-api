@@ -1,4 +1,4 @@
-# Commonwealth Bank API Automation Test
+# SBS API Automation Test
 
 ## Node Dependencies
 
